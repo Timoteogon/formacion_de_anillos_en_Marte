@@ -1,2 +1,10 @@
-# formacion de anillos en Marte
-teoría, scripts y modelaciones sobre la formación de añillos en Marte por la fragmentación de Fobos
+# Formación de anillos en Marte
+
+Proyecto de mecánica celeste y ciencias planetarias para estudiar la evolución orbital de Fobos y su posible fragmentación en el límite de Roche.
+
+## Etapas del proyecto
+
+- **Etapa I:** Modelo kepleriano del problema de dos cuerpos e integración numérica.
+- **Etapa II:** Evolución orbital por disipación mareal.
+- **Etapa III:** Límite de Roche y simulación de anillos.
+
