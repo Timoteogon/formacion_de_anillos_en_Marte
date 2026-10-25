@@ -42,3 +42,27 @@ $$d_R = R_{\text{Marte}} \left( 2 \frac{\rho_{\text{Marte}}}{\rho_{\text{Fobos}}
 La solución analítica para el tiempo $t$ en función del radio orbital $r$ hasta alcanzar la disrupción es:
 
 $$t(r) = t_0 + \frac{2 Q}{13 k_2} \frac{M_{\text{Marte}}}{m_{\text{Fobos}}} \sqrt{\frac{1}{G M_{\text{Marte}}}} \frac{1}{R_{\text{Marte}}^5} \left( a_0^{13/2} - r^{13/2} \right)$$
+
+## Estructura del Repositorio
+
+```text
+.
+├── notebooks/         # Jupyter Notebooks con las simulaciones y análisis
+├── src/               # Módulos y funciones auxiliares en Python
+├── data/              # Datos orbitales e hiperparámetros
+└── README.md          # Documentación principal del proyecto
+```
+
+---
+
+### 2. Cómo ejecutar las simulaciones (Uso)
+Explica brevemente cómo clonar el repositorio y correr los archivos.
+
+```markdown
+## Uso
+
+1. Clona este repositorio en tu máquina local:
+   ```bash
+   git clone [https://github.com/mateocgonzalez07/formacion_de_anillos_en_Marte.git](https://github.com/mateocgonzalez07/formacion_de_anillos_en_Marte.git)
+
+```
