@@ -2,7 +2,7 @@
 
 **Autor:** Mateo C. Gonzalez  
 *Universidad de Antioquia — Medellín, Colombia*  
-**GitHub:** [@mateocgonzalez07](https://github.com/mateocgonzalez07)  
+**GitHub:** [@Timoteogon ](https://github.com/Timoteogon)  
 **Contacto:** `mateo.chavarriag@udea.edu.co`
 
 Proyecto de mecánica celeste y ciencias planetarias para estudiar la evolución orbital de Fobos y su posible fragmentación en el límite de Roche.
