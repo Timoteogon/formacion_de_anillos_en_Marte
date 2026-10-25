@@ -32,3 +32,13 @@ $$\vec{r}_{n+1} = 2\vec{r}_n - \vec{r}_{n-1} + \vec{a}_n \Delta t^2$$
 La evolución temporal del semieje mayor $a(t)$ debido al torque mareal de Marte se modela con la siguiente expresión:
 
 $$\frac{da}{dt} = -\frac{3 k_2}{Q} \frac{m_{\text{Fobos}}}{M_{\text{Marte}}} \left( \frac{R_{\text{Marte}}}{a} \right)^5 \sqrt{\frac{G M_{\text{Marte}}}{a}}$$
+
+### 3. Límite de Roche
+El límite de Roche define la distancia crítica donde las fuerzas de marea superan la autogravitación del satélite. Para un cuerpo rígido:
+
+$$d_R = R_{\text{Marte}} \left( 2 \frac{\rho_{\text{Marte}}}{\rho_{\text{Fobos}}} \right)^{1/3}$$
+
+### 4. Tiempo de Colapso Orbital
+La solución analítica para el tiempo $t$ en función del radio orbital $r$ hasta alcanzar la disrupción es:
+
+$$t(r) = t_0 + \frac{2 Q}{13 k_2} \frac{M_{\text{Marte}}}{m_{\text{Fobos}}} \sqrt{\frac{1}{G M_{\text{Marte}}}} \frac{1}{R_{\text{Marte}}^5} \left( a_0^{13/2} - r^{13/2} \right)$$
