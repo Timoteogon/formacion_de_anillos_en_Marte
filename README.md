@@ -8,3 +8,10 @@ Proyecto de mecánica celeste y ciencias planetarias para estudiar la evolución
 - **Etapa II:** Evolución orbital por disipación mareal.
 - **Etapa III:** Límite de Roche y simulación de anillos.
 
+## Requisitos
+
+El proyecto utiliza librerías de Python para cálculo científico y astrodinámica:
+- `numpy`
+- `matplotlib`
+- `pymcel`
+- `spiceypy`
