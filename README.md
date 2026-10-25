@@ -66,3 +66,7 @@ Explica brevemente cómo clonar el repositorio y correr los archivos.
    git clone [https://github.com/mateocgonzalez07/formacion_de_anillos_en_Marte.git](https://github.com/mateocgonzalez07/formacion_de_anillos_en_Marte.git)
 
 ```
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
