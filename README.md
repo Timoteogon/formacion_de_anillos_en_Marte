@@ -67,6 +67,10 @@ Explica brevemente cómo clonar el repositorio y correr los archivos.
 
 ```
 
+## Consideraciones y Dependencias Externas
+
+* **Consultas a JPL Horizons:** Este proyecto utiliza la API de la NASA/JPL Horizons a través de `astroquery` para obtener las posiciones iniciales de Fobos y Marte. Si los servidores de la NASA presentan intermitencias o errores internos (como el fallo de inicialización de kernels `LTKERNL`), la ejecución de la consulta puede fallar temporalmente. Se recomienda reintentar la ejecución pasado un momento si esto ocurre.
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
